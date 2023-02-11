@@ -1,8 +1,8 @@
-# islam-resources
-some resources for Muslims
+# Islam Resources 
 
-## quran website - موقع قرآن
+## Quran Website - موقع قرآن
 [quran.com](https://quran.com)
-## Quranic Audio website - قرآن صوتيّ 
+## Quranic Audio Website - قرآن صوتيّ 
 [quranicaudio.com](https://quranicaudio.com)
-
+## Sunnah Website - موقع سنة
+[sunnah.com](https://sunnah.com)
